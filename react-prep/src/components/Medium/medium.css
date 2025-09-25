@@ -1,0 +1,17 @@
+.medium-table{
+    width: 90%;
+    border: 1px solid black;
+    margin: 20px;
+    border-collapse: collapse;
+}
+.medium-table th, .medium-table td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+.medium-search{
+    margin: 20px;
+    padding: 10px;
+    width: 300px;
+    font-size: 16px;
+}
