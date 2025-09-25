@@ -12,5 +12,15 @@
     width: 45em;
     margin-top: 20px;
     text-align: center;
-    border: 1px solid red;
+}
+.colorchange-div{
+    width: 20em;
+    height: 15em;
+    border: 2px solid black;
+    margin-top: 20px;
+}
+.colorchange-buttons{
+    display: flex;
+    margin: 2em;
+    justify-content: space-between;
 }
